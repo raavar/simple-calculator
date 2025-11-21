@@ -1,6 +1,6 @@
 # 🧮 Simple Calculator
 
-A minimalist and functional basic calculator, built using **HTML** and **CSS**.
+A minimalist and functional basic calculator, built using **HTML**, **CSS** and **JavaScript**.
 
 ## ✨ Overview
 
